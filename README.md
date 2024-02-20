@@ -7,4 +7,4 @@ Note: In testing
    Endpoint :
      http://localhost:8080/service/{name} or http://localhost:8080/service?name={name} 
 4. Sample Response
-   Is the name John Wick? : {true | false}
+   - Is the name John Wick? : {true | false}
